@@ -6,7 +6,7 @@ is being done on back end, so on front end only thing you should do is fetching 
 
 ### <h2>Setup</h2>
 
--create a file named ".env" which contains "MONGO_URI= <link-to-your-mongodb-db>" <br>
+-create a file named ".env" which contains "MONGO_URI= {link-to-your-mongodb-db}" <br>
 -navigate the folder containing package.json <br>
 -npm install <br>
 -npm start
